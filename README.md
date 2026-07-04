@@ -54,14 +54,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisamaasoglu&show_icons=true&theme=react&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisamaasoglu&layout=compact&theme=react&hide_border=true&langs_count=8" height="165" />
-</p>
-
----
 
 ## 🌐 Connect
 
