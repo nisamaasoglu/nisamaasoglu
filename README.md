@@ -1,59 +1,50 @@
 <h1 align="center">Hi 👋, I'm Nisa Maaşoğlu</h1>
-<h3 align="center">Software Engineer • AI & Machine Learning • Data</h3>
+<h3 align="center">Software Engineer • Applied AI • Signals & Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Data+Engineering+in+progress;Where+AI+meets+human+cognition;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Applied+AI+%26+agentic+systems;Real-time+signal+processing;Where+AI+meets+human+cognition;I+only+ship+what+I+can+defend" alt="Typing SVG" />
 </p>
-
-> 🚧 **This profile is actively evolving** — I'm continuously adding new projects and improving existing ones.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering graduate, building toward **AI, ML & Data Engineering**
-- 🧠 Fascinated by the intersection of **AI and human cognition** — memory, learning, and the signals behind them
-- 🌍 I build systems that turn complex, real-world data into meaningful decisions
-- 🔭 Currently deepening: **data engineering, applied ML, and agentic AI**
-- 💬 Ask me about climate simulation, biosignals, or cognition-inspired systems
+- 🎓 Software Engineering graduate, working in **applied AI and real-time systems**
+- 🧠 Drawn to the intersection of **AI and human cognition** — memory, learning, and the signals behind them
+- 🔬 I like problems where a **live signal** has to become a decision: audio, biosignals, video frames
+- 📐 Every project here documents **only what is actually implemented** — no roadmap sections, no claims I could not defend in a technical interview
+- 💬 Ask me about biosignals, real-time rendering, or cognition-inspired systems
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-[![My Skills](https://skillicons.dev/icons?i=python,cs,php,js,html,css,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,php,js,ts,html,css,cpp)](https://skillicons.dev)
 
-**Data & ML**
-[![My Skills](https://skillicons.dev/icons?i=sklearn,mysql,sqlite)](https://skillicons.dev)
+**Frameworks & Libraries**
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,laravel,react,opencv,sklearn)](https://skillicons.dev)
 
-**Frameworks & Tools**
-[![My Skills](https://skillicons.dev/icons?i=laravel,flask,git,github,vscode,docker)](https://skillicons.dev)
-
-**AI Tools**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+**Tools**
+[![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,vscode)](https://skillicons.dev)
 
 ---
 
 ## 🌟 Featured Projects
 
+Every project below runs **without its hardware** — each one ships a labelled demo or
+simulation mode, so a reviewer can clone it and see the whole pipeline in seconds.
+
 | Project | What it does | Focus |
 |---|---|---|
-| 🌍 **TerraScope** | Urban climate & disaster resilience simulation across 81 provinces of Turkey | Data · Simulation |
-| 🧠 **LetheFS** | Smart file archiver based on the Ebbinghaus forgetting curve | Systems · Cognition |
-| 🎵 **Aurora** | Real-time audio-to-emotion analysis engine | Signals · AI |
-| 🤖 **unicorn** | Autonomous search-and-rescue robot | Robotics · Embedded |
-| 🌸 **Orchidia** | AI orchid-care assistant — species recognition + sensor-based alerts | AI · IoT |
-| 🧬 **Helixir** | Encryption algorithm inspired by DNA nucleotide sequences | Cryptography · Bio |
-| ❤️ **Cardia** | Real-time pulse monitoring — Arduino to web dashboard | IoT · Health |
-| 🎯 **Bozgun** | Laser turret system for automated target detection | Computer Vision · Defense |
-
-> 💡 Source code for original projects is kept private — detailed documentation available for each, and code can be shared on request for review.
+| 🎵 **[Aurora](https://github.com/nisamaasoglu/Aurora)** | Real-time generative art — live audio pitch, timbre and loudness drive a volumetric raymarching GLSL shader; every session is a one-time, non-repeatable artwork | Signals · Graphics |
+| 🧠 **[LetheFS](https://github.com/nisamaasoglu/LetheFS)** | An autonomous forgetting file system — recall scores decay along the Ebbinghaus curve into a reversible quarantine you resolve from a live dashboard | Systems · Cognition |
+| ❤️ **[Cardia](https://github.com/nisamaasoglu/Cardia)** | Single-lead ECG monitor — an AD8232 and an Arduino detect R-peaks on-device and stream heart rate over Ethernet to a web dashboard | IoT · Signal Processing |
+| 🎯 **[BOZGUN](https://github.com/nisamaasoglu/BOZGUN)** | Colour-tracking turret — OpenCV maps a target's pixel position to pan/tilt servo angles over serial and marks it with a laser (simulated hit, no projectile) | Computer Vision · Robotics |
+| 🌸 **[Orchidia](https://github.com/nisamaasoglu/Orchidia)** | Orchid identification and care assistant — a deep-learning classifier reads the species from a photo, then checks simulated environmental readings against its ideal ranges | AI · Web |
+| 🧬 **[Helixir](https://github.com/nisamaasoglu/Helixir)** | File encryption with a DNA representation layer — AES-256-GCM with scrypt, ciphertext rendered as an A/C/G/T sequence and exported to FASTA | Cryptography · Desktop |
 
 ---
-
 
 ## 🌐 Connect
 
