@@ -32,12 +32,12 @@ Gaziantep, Türkiye · open to relocation and remote</p>
 | **Metron** | Construction site management app for a civil engineer: daily reports, attendance, on-site quantity take-off, progress payments and work schedule — tablet-first and fully offline, 14 document types rendered to PDF on the device. 298 tests. *Client work, source private.* | TypeScript · React Native · Supabase |
 | **TerraScope** | Climate-risk and urban-resilience simulation for Türkiye's 81 provinces and Istanbul's 39 districts, projected to 2050. ERA5 + CMIP6 heat, ESHM20 seismic hazard, live quake/fire/air data, H3 globe prototype. 29 tests. *Source private.* | Python · Streamlit · H3 |
 | [**Titulus**](https://github.com/nisamaasoglu/Titulus) | Live platform for a law practice — 2,468-article legislation library, daily Official Gazette feed, an admin panel the client runs alone. [avukatmetinmaasoglu.com](https://avukatmetinmaasoglu.com) | PHP · JavaScript |
-| [**Anamnesis**](https://github.com/nisamaasoglu/anamnesis) | Retrieval-grounded assistant that answers only from what it retrieved and names the source behind every claim. Read-only by design, verified by a test. | Python · FastAPI · RAG |
-| [**LetheFS**](https://github.com/nisamaasoglu/LetheFS) | A file system that forgets on purpose, along the Ebbinghaus curve. Every action logged and reversible; never deletes silently. | Python · FastAPI · WebSockets |
-| [**Unicorn**](https://github.com/nisamaasoglu/Unicorn) | Search-and-rescue rover firmware. Raises its own Wi-Fi, serves its command centre from flash; control logic is unit-tested with no board attached. | ESP32 · C++ |
+| [**Anamnesis**](https://github.com/nisamaasoglu/anamnesis) | Retrieval-grounded assistant that answers only from what it retrieved and names the source behind every claim. Read-only by design, verified by a test. [Live demo](https://anamnesis-kappa.vercel.app) | Python · FastAPI · RAG |
+| [**LetheFS**](https://github.com/nisamaasoglu/LetheFS) | A file system that forgets on purpose, along the Ebbinghaus curve. Every action logged and reversible; never deletes silently. [Live demo](https://lethefs.vercel.app) | Python · FastAPI · WebSockets |
+| [**Unicorn**](https://github.com/nisamaasoglu/Unicorn) | Search-and-rescue rover firmware. Raises its own Wi-Fi, serves its command centre from flash; control logic is unit-tested with no board attached. [Live simulator](https://unicorn-rover.vercel.app) | ESP32 · C++ |
 | [**Helixir**](https://github.com/nisamaasoglu/Helixir) | AES-256-GCM file encryption with scrypt, ciphertext rendered as a DNA sequence. | Python · PyQt6 |
 
-More: [Aurora](https://github.com/nisamaasoglu/Aurora) · [Cardia](https://github.com/nisamaasoglu/Cardia) · [BOZGUN](https://github.com/nisamaasoglu/BOZGUN) · [Orchidia](https://github.com/nisamaasoglu/Orchidia)
+More: [Aurora](https://github.com/nisamaasoglu/Aurora) · [Cardia](https://github.com/nisamaasoglu/Cardia) ([live demo](https://cardia-self.vercel.app/?demo=1)) · [BOZGUN](https://github.com/nisamaasoglu/BOZGUN) · [Orchidia](https://github.com/nisamaasoglu/Orchidia)
 
 ---
 
